@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="nukopy" id="1c571e08-f774-4ff8-9e01-638de69057a7">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
