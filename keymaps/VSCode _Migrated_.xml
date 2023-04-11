@@ -87,6 +87,8 @@
   </action>
   <action id="GotoUrlAction" />
   <action id="MaximizeToolWindow" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="MoveTabRight" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl quote" />
